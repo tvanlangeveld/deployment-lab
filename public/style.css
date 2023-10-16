@@ -1,0 +1,15 @@
+input{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+button{
+  background-color: blue;
+  font-size: xx-large;
+}
+
+body{
+  background-color: gray;
+}
